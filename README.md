@@ -1,1 +1,23 @@
-# mac-augments
+mac-augments
+
+dozer
+https://github.com/Mortennn/Dozer
+
+lyric fever
+https://github.com/aviwad/LyricFever
+
+untapped companion
+https://mtga.untapped.gg/companion
+
+app cleaner
+https://freemacsoft.net/appcleaner/
+
+qbittorrent
+https://www.qbittorrent.org/download
+
+disk inventory x
+https://www.derlien.com/downloads/index.html
+
+[IOS RELATED]
+altstore
+https://altstore.io/
