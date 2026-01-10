@@ -1,4 +1,4 @@
-mac-augments
+#mac-augments
 
 dozer
 https://github.com/Mortennn/Dozer
@@ -18,6 +18,15 @@ https://www.qbittorrent.org/download
 disk inventory x
 https://www.derlien.com/downloads/index.html
 
+
 [IOS RELATED]
 altstore
 https://altstore.io/
+
+
+[USEFUL WEBSITES]
+torrentmac
+https://www.torrentmac.net/
+
+appstorrent(how to pirate premiere for apple silicon)
+https://appstorrent.ru/
