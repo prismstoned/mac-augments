@@ -20,13 +20,23 @@ https://www.derlien.com/downloads/index.html
 
 
 [IOS RELATED]
+
 altstore
 https://altstore.io/
 
 
 [USEFUL WEBSITES]
+
 torrentmac
 https://www.torrentmac.net/
 
 appstorrent(how to pirate premiere for apple silicon)
 https://appstorrent.ru/
+
+[spotify]
+
+spotx-bash
+https://github.com/SpotX-Official/SpotX-Bash
+
+spicetify
+https://spicetify.app/
